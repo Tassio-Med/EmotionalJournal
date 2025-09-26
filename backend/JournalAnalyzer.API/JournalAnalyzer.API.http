@@ -1,0 +1,6 @@
+@JournalAnalyzer.API_HostAddress = http://localhost:5174
+
+GET {{JournalAnalyzer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
