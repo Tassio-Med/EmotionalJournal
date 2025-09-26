@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JournalAnalyzer.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1878ca831ce471b8e66f3a7a3a988e24adcd6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c16cfc9a9f82e389ad1bc7c9609da950cac1b399")]
 [assembly: System.Reflection.AssemblyProductAttribute("JournalAnalyzer.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JournalAnalyzer.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
